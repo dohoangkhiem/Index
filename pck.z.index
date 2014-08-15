@@ -1,0 +1,19 @@
+{
+  "name" : "PCK.Z",
+  "description" : "tezt tezt",
+  "repository" : {
+    "type" : "http",
+    "branch" : "master",
+    "url" : "https://bitbucket.org/dohoangkhiem/pck.z/get/1dc5018ba479.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "e59c4129d78b6bb2099c8482be7c3bfc680715e4",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "",
+  "title" : "NEW.PACKAGE"
+}
